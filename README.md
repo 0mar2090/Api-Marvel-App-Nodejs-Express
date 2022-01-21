@@ -11,23 +11,31 @@ to open the visual code terminal.
 
 03 - Clone project:
 
-==> first way
+==> first way:
 
      git clone git@github.com:0mar2090/Api-Marvel-App-Nodejs-Express.git
 
-==> second way
+==> second way:
 
      git clone https://github.com/0mar2090/Api-Marvel-App-Nodejs-Express.git
+     
+     
+04 - we must be inside the folder that generates us when we clone in the project:
 
-04 - install packages - dependencies  npm:
+     C:\-\HP\Downloads\namefolder> cd c:\-\HP\Downloads\namefolder\Api-Marvel-App-Nodejs-Express  
+     
+     It should look like this inside the project folder where we will install the packages and dependencies:
+     c:\-\-\Downloads\namefolder\Api-Marvel-App-Nodejs-Express>
+     
+05 - install packages - dependencies  npm:
  
      npm install
 
-05 - run the server:
+06 - run the server:
     
      npm start
 
-06 - go to:
+07 - go to:
 
 http://localhost:3001
 
