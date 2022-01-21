@@ -1,0 +1,44 @@
+body{
+   
+    background-image: url(../img/marvel_background.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   
+}
+.container{
+    margin: 0px auto;
+    position: relative;
+    margin-top: 60px;
+    /* display: flex;
+    flex-wrap: wrap; */
+
+}
+
+.character:hover,.comicbook:hover,.writereview:hover,.myreviews:hover{
+    transform: scale(1.1);
+}
+.character,.comicbook,.writereview,.myreviews{
+    transition: 0.3s;
+}
+ 
+h2{
+    font-size: 30px;
+    font-family: 'Bangers', cursive;
+}
+
+.searchcomic,.searchcharacter{
+    color: red;
+    -webkit-text-stroke-width: 2px; 
+    -webkit-text-stroke-color: black;
+}
+
+.nav{
+    background-color: rgb(20, 3, 3);
+    text-align: center;
+}
+
+.card-title{
+    color: red;
+    -webkit-text-stroke-width: 2px; 
+    -webkit-text-stroke-color: black;
+}

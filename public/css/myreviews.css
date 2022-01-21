@@ -1,0 +1,87 @@
+body{
+   
+    background-image: url(../img/marvel_background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.container{
+    margin-top: 60px;
+}
+
+h1,#profilebtn,#submitbtn,#backtoprofile,#Nextoprofile{
+    font-size: 20px;
+    font-family: 'Bangers', cursive;
+}
+
+h5{
+    /* font-size: 20px;
+    color: rgb(53, 8, 8);
+    font-family: 'Bangers', cursive; */
+    font-size: 21px;
+    color: #f6f6f6;
+    font-family: 'Bangers', cursive;
+}
+p{
+    font-size: 15px;
+}
+.image{
+    height: 200px;
+    width: 175px;
+}
+
+.nav{
+    background-color: black;
+    font-family: 'Bangers', cursive;
+}
+
+.myreviews{
+    font-size: 55px;
+}
+
+#charcard{
+    background-color: #f7e75d;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    transition: .25s;
+}
+#charcard:hover{
+    transform: scale(1.05);
+}
+
+.card-title{
+    font-family: 'Bangers', cursive;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: black;
+    color: white;
+}
+
+#charimg{
+    height: 200px;
+}
+
+.viewmessage{
+    font-size: 30px;
+}
+
+#backtoprofile,#Nextoprofile{
+    background-color: mediumblue;
+    color: white;
+}
+#backtoprofile:hover{
+    background-color: dodgerblue;
+    color: white;
+}
+#Nextoprofile:hover{
+    background-color: dodgerblue;
+    color: white;
+}
+img.img-thumbnail {
+        width: 91%;
+        height: 88%;
+        background-size: cover;
+  }
+
+

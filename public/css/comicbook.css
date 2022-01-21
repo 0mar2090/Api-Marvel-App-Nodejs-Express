@@ -1,0 +1,47 @@
+body{
+   
+    background-image: url(../img/marvel_background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    background: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+
+h1,p,#profilebtn,#searchbtn{
+    font-size: 20px;
+    font-family: 'Bangers', cursive;
+}
+
+.image{
+    position: relative;
+    height: 350px; 
+}
+
+.nav{
+    background-color: black;
+}
+
+#profilebtn{
+    background-color: mediumblue;
+    color: white;
+}
+#profilebtn:hover{
+    background-color: dodgerblue;
+    color: white;
+}
+#searchbtn{
+    background-color: green;
+    color: white;
+}
+#searchbtn:hover{
+    background-color: limegreen;
+    color: white;
+}
+

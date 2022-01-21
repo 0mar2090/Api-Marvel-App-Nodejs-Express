@@ -1,0 +1,26 @@
+{
+  "name": "api-marvel-app-nodejs-express",
+  "version": "1.0.0",
+  "description": "Api Marvel App Nodejs + Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0mar2090/Api-Marvel-App-Nodejs-Express.git"
+  },
+  "keywords": [],
+  "author": "0mar2090",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0mar2090/Api-Marvel-App-Nodejs-Express/issues"
+  },
+  "homepage": "https://github.com/0mar2090/Api-Marvel-App-Nodejs-Express#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^3.1.0",
+    "nodemon": "^2.0.15"
+  }
+}
