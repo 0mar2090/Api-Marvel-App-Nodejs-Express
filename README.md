@@ -5,7 +5,8 @@ Api Marvel App Nodejs + Express
 
 02 - go to the terminal:
 
-   KEYBOARD : CTRL + Ñ
+        KEYBOARD
+        CTRL + Ñ
 
 to open the visual code terminal.
 
@@ -38,5 +39,9 @@ to open the visual code terminal.
 07 - go to:
 
 http://localhost:3001
+
+Home App Marvel
+![image](https://user-images.githubusercontent.com/81777537/150466928-79538ae9-28f3-4ee8-90bd-d0daff662686.png)
+
 
 END......
