@@ -12,12 +12,6 @@ to open the visual code terminal.
 
 03 - Clone project:
 
-==> first way:
-
-     git clone git@github.com:0mar2090/Api-Marvel-App-Nodejs-Express.git
-
-==> second way:
-
      git clone https://github.com/0mar2090/Api-Marvel-App-Nodejs-Express.git
      
      
