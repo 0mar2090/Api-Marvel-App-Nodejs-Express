@@ -13,19 +13,19 @@ to open the visual code terminal.
 
 ==> first way
 
-    COMMANDS: git clone git@github.com:0mar2090/Api-Marvel-App-Nodejs-Express.git
+     git clone git@github.com:0mar2090/Api-Marvel-App-Nodejs-Express.git
 
 ==> second way
 
-    COMMANDS: git clone https://github.com/0mar2090/Api-Marvel-App-Nodejs-Express.git
+     git clone https://github.com/0mar2090/Api-Marvel-App-Nodejs-Express.git
 
 04 - install packages - dependencies  npm:
-   
-    COMMANDS: npm install
+ 
+     npm install
 
 05 - run the server:
     
-    COMMANDS : npm start
+     npm start
 
 06 - go to:
 
